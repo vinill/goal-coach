@@ -45,6 +45,7 @@ class SignUp extends Component{
                 <div>
                     {this.state.error.message}
                 </div>
+                <div><a href="/signin">Already a user?Sign in</a></div>
             </div>
         )
     }
