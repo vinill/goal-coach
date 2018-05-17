@@ -14,7 +14,7 @@ class App extends Component{
            <div>
                <h3>Goals</h3>
               <AddGoal />
-               <GoalList />
+               <GoalList  />
             <button
                 className="btn btn-danger"
                 onClick={()=>this.signOut()}>
@@ -25,7 +25,7 @@ class App extends Component{
    }
 }
 function mapStateToProps(state) {
-    console.log('state',state);
+    // console.log('state',state);
     return{};
 }
 
