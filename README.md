@@ -12,6 +12,6 @@ This will automatically start a local  server at ``localhost:3000``
 
 
 ### Demo:
-![](http://g.recordit.co/O3DHNsaahs.gif)
+![](https://github.com/vinill/goal-coach/blob/master/animation.gif)
 
   
